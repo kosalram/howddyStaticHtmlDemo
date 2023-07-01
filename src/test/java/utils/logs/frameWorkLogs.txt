@@ -1,0 +1,10 @@
+2023-07-01 16:34:44,669 INFO [main] u.l.testNGListener [testNGListener.java:46] Test execution finished.
+2023-07-01 16:34:46,169 INFO [main] u.l.testNGListener [testNGListener.java:16] Executing test: testTC001
+2023-07-01 16:34:52,597 INFO [main] c.e.H.TC001 [TC001.java:89] The form was successfully submitted!
+2023-07-01 16:34:52,597 INFO [main] u.l.testNGListener [testNGListener.java:24] Test passed: testTC001
+2023-07-01 16:34:52,725 INFO [main] u.l.testNGListener [testNGListener.java:54] Test execution finished.
+2023-07-01 16:50:38,600 INFO [main] u.l.testNGListener [testNGListener.java:45] Test execution Started.
+2023-07-01 16:50:40,140 INFO [main] u.l.testNGListener [testNGListener.java:15] Executing test: testTC001
+2023-07-01 16:50:43,610 INFO [main] c.e.H.TC001 [TC001.java:89] The form was successfully submitted!
+2023-07-01 16:50:43,611 INFO [main] u.l.testNGListener [testNGListener.java:23] Test passed: testTC001
+2023-07-01 16:50:43,749 INFO [main] u.l.testNGListener [testNGListener.java:53] Test execution finished.

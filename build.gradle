@@ -1,0 +1,42 @@
+plugins {
+    id 'java'
+}
+
+group = 'org.howddy.demo'
+version = '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testImplementation platform('org.junit:junit-bom:5.9.1')
+    testImplementation 'org.junit.jupiter:junit-jupiter'
+    // https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java
+    implementation group: 'org.seleniumhq.selenium', name: 'selenium-java', version: '4.9.0'
+    // https://mvnrepository.com/artifact/org.webjars.npm/selenium-webdriver
+    implementation group: 'org.webjars.npm', name: 'selenium-webdriver', version: '4.1.2'
+    // https://mvnrepository.com/artifact/org.testng/testng
+    testImplementation group: 'org.testng', name: 'testng', version: '6.14.3'
+
+    // https://mvnrepository.com/artifact/org.slf4j/slf4j-simple
+//    testImplementation 'org.slf4j:slf4j-simple:2.0.7'
+
+    // https://mvnrepository.com/artifact/org.slf4j/slf4j-api
+    implementation 'org.slf4j:slf4j-api:2.0.7'
+
+    // https://mvnrepository.com/artifact/ch.qos.logback/logback-classic
+    testImplementation 'ch.qos.logback:logback-classic:1.4.8'
+
+// https://mvnrepository.com/artifact/org.apache.poi/poi-ooxml
+    implementation 'org.apache.poi:poi-ooxml:5.2.3'
+
+    // https://mvnrepository.com/artifact/com.aventstack/extentreports
+    implementation 'com.aventstack:extentreports:4.0.9'
+
+
+}
+
+tasks.test {
+    useJUnitPlatform()
+}
