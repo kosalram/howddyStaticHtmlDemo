@@ -1,10 +1,39 @@
-2023-07-01 16:34:44,669 INFO [main] u.l.testNGListener [testNGListener.java:46] Test execution finished.
-2023-07-01 16:34:46,169 INFO [main] u.l.testNGListener [testNGListener.java:16] Executing test: testTC001
-2023-07-01 16:34:52,597 INFO [main] c.e.H.TC001 [TC001.java:89] The form was successfully submitted!
-2023-07-01 16:34:52,597 INFO [main] u.l.testNGListener [testNGListener.java:24] Test passed: testTC001
-2023-07-01 16:34:52,725 INFO [main] u.l.testNGListener [testNGListener.java:54] Test execution finished.
-2023-07-01 16:50:38,600 INFO [main] u.l.testNGListener [testNGListener.java:45] Test execution Started.
-2023-07-01 16:50:40,140 INFO [main] u.l.testNGListener [testNGListener.java:15] Executing test: testTC001
-2023-07-01 16:50:43,610 INFO [main] c.e.H.TC001 [TC001.java:89] The form was successfully submitted!
-2023-07-01 16:50:43,611 INFO [main] u.l.testNGListener [testNGListener.java:23] Test passed: testTC001
-2023-07-01 16:50:43,749 INFO [main] u.l.testNGListener [testNGListener.java:53] Test execution finished.
+2023-07-05 16:31:34,348 INFO [main] u.l.testNGListener [testNGListener.java:45] Test execution Started.
+2023-07-05 16:31:43,667 INFO [main] u.l.testNGListener [testNGListener.java:15] Executing test: testTC001
+2023-07-05 16:31:46,916 INFO [main] c.e.H.TC001 [TC001.java:116] The form was successfully submitted!
+2023-07-05 16:31:46,918 INFO [main] u.l.testNGListener [testNGListener.java:23] Test passed: testTC001
+2023-07-05 16:31:47,619 INFO [main] u.l.testNGListener [testNGListener.java:53] Test execution finished.
+2023-07-05 16:33:13,121 INFO [main] u.l.testNGListener [testNGListener.java:45] Test execution Started.
+2023-07-05 16:33:13,141 INFO [main] c.e.H.TC001 [TC001.java:78] Test is running on chrome
+2023-07-05 16:33:19,126 INFO [main] u.l.testNGListener [testNGListener.java:15] Executing test: testTC001
+2023-07-05 16:33:25,317 INFO [main] c.e.H.TC001 [TC001.java:116] The form was successfully submitted!
+2023-07-05 16:33:25,317 INFO [main] u.l.testNGListener [testNGListener.java:23] Test passed: testTC001
+2023-07-05 16:33:25,438 INFO [main] u.l.testNGListener [testNGListener.java:53] Test execution finished.
+2023-07-05 16:33:25,441 INFO [main] u.l.testNGListener [testNGListener.java:45] Test execution Started.
+2023-07-05 16:33:25,442 INFO [main] c.e.H.TC001 [TC001.java:78] Test is running on firefox
+2023-07-05 16:33:33,944 INFO [main] u.l.testNGListener [testNGListener.java:15] Executing test: testTC001
+2023-07-05 16:34:06,980 WARN [main] u.l.testNGListener [testNGListener.java:35] Test skipped: testTC001
+2023-07-05 16:34:07,026 INFO [main] u.l.testNGListener [testNGListener.java:15] Executing test: testTC001
+2023-07-05 16:34:14,930 INFO [main] c.e.H.TC001 [TC001.java:116] The form was successfully submitted!
+2023-07-05 16:34:14,930 INFO [main] u.l.testNGListener [testNGListener.java:23] Test passed: testTC001
+2023-07-05 16:34:16,199 INFO [main] u.l.testNGListener [testNGListener.java:53] Test execution finished.
+2023-07-06 11:27:25,470 INFO [main] u.l.testNGListener [testNGListener.java:45] Test execution Started.
+2023-07-06 11:27:25,491 INFO [main] c.e.H.TC001 [TC001.java:78] Test is running on chrome
+2023-07-06 11:27:37,042 WARN [main] u.l.testNGListener [testNGListener.java:35] Test skipped: testTC001
+2023-07-06 11:27:37,046 INFO [main] u.l.testNGListener [testNGListener.java:53] Test execution finished.
+2023-07-06 11:27:37,046 INFO [main] u.l.testNGListener [testNGListener.java:45] Test execution Started.
+2023-07-06 11:27:37,048 INFO [main] c.e.H.TC001 [TC001.java:78] Test is running on firefox
+2023-07-06 11:27:47,095 WARN [main] u.l.testNGListener [testNGListener.java:35] Test skipped: testTC001
+2023-07-06 11:27:47,095 INFO [main] u.l.testNGListener [testNGListener.java:53] Test execution finished.
+2023-07-06 11:30:28,641 INFO [main] u.l.testNGListener [testNGListener.java:45] Test execution Started.
+2023-07-06 11:30:28,652 INFO [main] c.e.H.TC001 [TC001.java:78] Test is running on chrome
+2023-07-06 11:30:38,077 INFO [main] u.l.testNGListener [testNGListener.java:15] Executing test: testTC001
+2023-07-06 11:30:43,396 INFO [main] c.e.H.TC001 [TC001.java:116] The form was successfully submitted!
+2023-07-06 11:30:43,396 INFO [main] u.l.testNGListener [testNGListener.java:23] Test passed: testTC001
+2023-07-06 11:30:43,585 INFO [main] u.l.testNGListener [testNGListener.java:53] Test execution finished.
+2023-07-06 11:30:43,585 INFO [main] u.l.testNGListener [testNGListener.java:45] Test execution Started.
+2023-07-06 11:30:43,588 INFO [main] c.e.H.TC001 [TC001.java:78] Test is running on firefox
+2023-07-06 11:31:43,495 INFO [main] u.l.testNGListener [testNGListener.java:15] Executing test: testTC001
+2023-07-06 11:31:50,072 INFO [main] c.e.H.TC001 [TC001.java:116] The form was successfully submitted!
+2023-07-06 11:31:50,072 INFO [main] u.l.testNGListener [testNGListener.java:23] Test passed: testTC001
+2023-07-06 11:31:50,965 INFO [main] u.l.testNGListener [testNGListener.java:53] Test execution finished.
