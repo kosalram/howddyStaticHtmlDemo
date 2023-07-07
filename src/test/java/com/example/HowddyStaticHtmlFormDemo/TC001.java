@@ -40,7 +40,7 @@ public class TC001 {
     private StringBuffer verificationErrors = new StringBuffer();
     private JavascriptExecutor js;
     protected static ThreadLocal<RemoteWebDriver> driver = new ThreadLocal<RemoteWebDriver>();
-    public static String remote_url = "http://192.168.1.5:4444/";
+    public static String remote_url = "http://localhost:4444/";
     public Capabilities capabilities;
 
     private static final Logger logger = LoggerFactory.getLogger(com.example.HowddyStaticHtmlForm.TC001.class);
